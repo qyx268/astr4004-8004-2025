@@ -12,4 +12,4 @@ This repo collects slides, codes and data used for the last quater of ASTR4004/A
 
 * Week 12 on Simulations
     * slides (`w12-simulations.pdf`)
-    * practice jupyter notebooks (`simulations-part[1-3].ipynb`)
+    * practice jupyter notebooks and filled ones (`simulations-part[12].ipynb`)
